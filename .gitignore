@@ -4,6 +4,8 @@
 *.out
 *.a
 *.so
-*
-!*/
-!*.
+*.gch
+*.d
+*.gcno
+*.gcda
+*.gcov
